@@ -1,0 +1,4 @@
+{
+  "name": "Booking Confirmation Workflow",
+  "trigger": "onSave"
+}
